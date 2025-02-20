@@ -23,7 +23,7 @@ I’m a passionate frontend developer who loves crafting modern, fast, and user-
 
 | **GitHub Stats** | **Top Languages** |
 | --- | --- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sentore847&show_icons=true&hide_border=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sentore847&layout=compact&hide_border=true&theme=radical) |
 
 ---
 
