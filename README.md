@@ -4,7 +4,7 @@ I’m a passionate frontend developer who loves crafting modern, fast, and user-
 
 ### 🚀 About Me
 
-- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idgrigodev) 
+- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idgrigodev) 
 
 ---
 
