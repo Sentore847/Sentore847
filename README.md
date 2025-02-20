@@ -4,7 +4,10 @@ I’m a passionate frontend developer who loves crafting modern, fast, and user-
 
 ### 🚀 About Me
 
-- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idgrigodev) 
+- 📫 How to reach me: 
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idgrigodev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-grigrochuk-a49030239)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grigorchuk.dev@gmail.com)
 
 ---
 
