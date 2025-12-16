@@ -1,5 +1,5 @@
 # Hello, I'm Grigorchuk Dmytro 👋
-I'm a passionate frontend developer who loves crafting modern, fast, and user-friendly interfaces.
+I'm a full stack dev
 ### 🚀 About Me
 - 📫 How to reach me: 
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idgrigodev)
