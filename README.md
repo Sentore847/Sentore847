@@ -36,6 +36,7 @@
   <img alt="JavaScript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img alt="TypeScript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img alt="PHP" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img alt="Python" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </p>
 
 <p><strong>Frontend</strong></p>
@@ -56,7 +57,6 @@
   <img alt="NestJS" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
   <img alt="Fastify" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg">
   <img alt="Laravel" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
-  <img alt="Python" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </p>
 
 <p><strong>Databases</strong></p>
