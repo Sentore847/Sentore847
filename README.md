@@ -1,24 +1,77 @@
-# Hello, I'm Grigorchuk Dmytro 👋
-I'm a full stack dev
-### 🚀 About Me
-- 📫 How to reach me: 
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idgrigodev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-grigrochuk-a49030239)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grigorchuk.dev@gmail.com)
+<h1 align="center">Dmytro Grigorchuk</h1>
+
+<p align="center">
+  <strong>Full-stack engineer building thoughtful web products, APIs and creative tools.</strong>
+</p>
+
+<p align="center">
+  TypeScript · React · Node.js · product-minded engineering
+</p>
+
+<p align="center">
+  <a href="https://t.me/idgrigodev"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dmitriy-grigorchuk-a49030239"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:grigorchuk.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
 ---
-### 🛠 Tech Stack
-- 💻 Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-- 🌐 Frontend: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css) ![Styled Components](https://img.shields.io/badge/-Styled_Components-black?style=flat-square&logo=styled-components)
-- 🔧 Backend: ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express) ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
-- ⚙️ Tools & Build: ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack) ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
-- 🛢 Databases: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase) ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
-- 📡 Message Queues: ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
-- 🧪 Testing: ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest) ![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-black?style=flat-square&logo=testing-library)
-- 🔗 CI/CD: ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=githubactions)
----
-### 📊 GitHub Stats
-| **GitHub Stats** | **Top Languages** |
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ What I make</h3>
+      <p>Interfaces that feel clear, maintainable backends, and end-to-end products from first screen to deployment.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ What I care about</h3>
+      <p>Strong UX, pragmatic architecture, clean delivery pipelines, and shipping ideas that are actually useful.</p>
+    </td>
+  </tr>
+</table>
+
+## Toolkit
+
+<p><strong>Frontend</strong></p>
+<p>
+  <img alt="TypeScript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img alt="JavaScript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img alt="React" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img alt="Next.js" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+  <img alt="Vue" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+  <img alt="Nuxt" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg">
+  <img alt="Tailwind CSS" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+</p>
+
+<p><strong>Backend &amp; data</strong></p>
+<p>
+  <img alt="Node.js" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img alt="Express" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
+  <img alt="NestJS" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
+  <img alt="PostgreSQL" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img alt="Prisma" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
+  <img alt="Supabase" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg">
+  <img alt="Java" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+</p>
+
+<p><strong>Delivery &amp; creative tech</strong></p>
+<p>
+  <img alt="Electron" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg">
+  <img alt="GitHub Actions" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">
+  <img alt="Railway" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg">
+  <img alt="Git" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+</p>
+
+> No broken activity widgets here — this profile stays focused on work, tools, and ways to connect.
+
+## Selected work
+
+| Project | Focus |
 | --- | --- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sentore847&show_icons=true&hide_border=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sentore847&layout=compact&hide_border=true&theme=radical) |
----
-🚀 Open to exciting projects and new challenges!
+| [CRM](https://github.com/Sentore847/crm-git) | TypeScript application for business workflows |
+| [University Management](https://github.com/Sentore847/university-management-ts) | Domain-focused TypeScript system |
+| [Nuxt Blog](https://github.com/Sentore847/nuxt-blog) | Vue / Nuxt web experience |
+| [E-commerce Project](https://github.com/Sentore847/ecommerce-project-ts) | TypeScript product build |
+
+<p align="center">
+  <i>Open to meaningful collaborations and difficult product problems.</i>
+</p>
