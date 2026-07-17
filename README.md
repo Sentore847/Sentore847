@@ -31,46 +31,66 @@
 
 ## Toolkit
 
+<p><strong>Languages</strong></p>
+<p>
+  <img alt="JavaScript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img alt="TypeScript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img alt="PHP" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+</p>
+
 <p><strong>Frontend</strong></p>
 <p>
-  <img alt="TypeScript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img alt="JavaScript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img alt="React" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img alt="Next.js" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
   <img alt="Vue" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
   <img alt="Nuxt" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg">
+  <img alt="Angular" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   <img alt="Tailwind CSS" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img alt="Electron" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg">
 </p>
 
-<p><strong>Backend &amp; data</strong></p>
+<p><strong>Backend</strong></p>
 <p>
   <img alt="Node.js" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img alt="Express" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
   <img alt="NestJS" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-  <img alt="PostgreSQL" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img alt="Prisma" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
-  <img alt="Supabase" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg">
-  <img alt="Java" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img alt="Fastify" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg">
+  <img alt="Laravel" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img alt="Python" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </p>
 
-<p><strong>Delivery &amp; creative tech</strong></p>
+<p><strong>Databases</strong></p>
 <p>
-  <img alt="Electron" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg">
+  <img alt="MongoDB" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+  <img alt="Redis" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg">
+  <img alt="PostgreSQL" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img alt="MySQL" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img alt="MariaDB" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg">
+</p>
+
+<p><strong>Infrastructure</strong></p>
+<p>
+  <img alt="Docker" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  <img alt="Kubernetes" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
+  <img alt="AWS" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+</p>
+
+<p><strong>AI</strong></p>
+<p>
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI_Codex-111111?style=for-the-badge&logo=openai&logoColor=white">
+</p>
+
+<p><strong>Other</strong></p>
+<p>
   <img alt="GitHub Actions" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">
   <img alt="Railway" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg">
   <img alt="Git" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img alt="GitHub" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img alt="GitLab" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg">
 </p>
 
 > No broken activity widgets here — this profile stays focused on work, tools, and ways to connect.
-
-## Selected work
-
-| Project | Focus |
-| --- | --- |
-| [CRM](https://github.com/Sentore847/crm-git) | TypeScript application for business workflows |
-| [University Management](https://github.com/Sentore847/university-management-ts) | Domain-focused TypeScript system |
-| [Nuxt Blog](https://github.com/Sentore847/nuxt-blog) | Vue / Nuxt web experience |
-| [E-commerce Project](https://github.com/Sentore847/ecommerce-project-ts) | TypeScript product build |
 
 <p align="center">
   <i>Open to meaningful collaborations and difficult product problems.</i>
