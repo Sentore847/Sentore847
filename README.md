@@ -7,13 +7,13 @@
 <br/>
 
 <a href="https://t.me/idgrigodev">
-  <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=telegram&theme=dark" alt="Telegram" />
 </a>
 <a href="https://www.linkedin.com/in/dmitriy-grigorchuk-a49030239">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:grigorchuk.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" alt="Email" />
 </a>
 
 <br/><br/>
@@ -77,7 +77,8 @@
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastify,laravel&theme=dark" alt="Node.js, Express, NestJS, Fastify and Laravel" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel&theme=dark" alt="Node.js, Express, NestJS and Laravel" />
+
 
 ### Databases
 
@@ -105,10 +106,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sentore847&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&ring_color=8B5CF6&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sentore847&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Most used languages" />
-
-<br/><br/>
 
 <img width="92%" src="https://streak-stats.demolab.com?user=Sentore847&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak" />
 
