@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,45:7C3AED,100:EC4899&height=230&section=header&text=Dmytro%20Grigorchuk&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-stack%20Engineer%20%E2%80%A2%20Product-minded%20Builder&descAlignY=58&descSize=18" alt="Dmytro Grigorchuk header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,45:7C3AED,100:EC4899&height=230&section=header&text=Dmytro%20Grigorchuk&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-stack%20Engineer%20%E2%80%A2%20Product-minded%20Builder&descAlignY=58&descSize=18" alt="Dmytro Hryhorchuk header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=850&height=55&lines=Building+thoughtful+web+products+and+creative+tools;Designing+clean+APIs+and+maintainable+systems;Turning+complex+ideas+into+useful+software;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+AI" alt="Animated introduction" />
 
@@ -9,8 +9,8 @@
 <a href="https://t.me/idgrigodev">
   <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=telegram&theme=dark" alt="Telegram" />
 </a>
-<a href="https://www.linkedin.com/in/dmitriy-grigorchuk-a49030239">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/idgrigorchuk/">
+  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" alt="LinkedIn" />
 </a>
 <a href="mailto:grigorchuk.dev@gmail.com">
   <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" alt="Email" />
