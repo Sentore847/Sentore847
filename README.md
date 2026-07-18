@@ -1,97 +1,164 @@
-<h1 align="center">Dmytro Grigorchuk</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full-stack engineer building thoughtful web products, APIs and creative tools.</strong>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,45:7C3AED,100:EC4899&height=230&section=header&text=Dmytro%20Grigorchuk&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-stack%20Engineer%20%E2%80%A2%20Product-minded%20Builder&descAlignY=58&descSize=18" alt="Dmytro Grigorchuk header" />
 
-<p align="center">
-  TypeScript · React · Node.js · product-minded engineering
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=850&height=55&lines=Building+thoughtful+web+products+and+creative+tools;Designing+clean+APIs+and+maintainable+systems;Turning+complex+ideas+into+useful+software;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+AI" alt="Animated introduction" />
 
-<p align="center">
-  <a href="https://t.me/idgrigodev"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/dmitriy-grigorchuk-a49030239"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:grigorchuk.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<br/>
+
+<a href="https://t.me/idgrigodev">
+  <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://www.linkedin.com/in/dmitriy-grigorchuk-a49030239">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:grigorchuk.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sentore847&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
+
+## ⚡ About me
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>✦ What I make</h3>
-      <p>Interfaces that feel clear, maintainable backends, and end-to-end products from first screen to deployment.</p>
+      <p>
+        Clear interfaces, maintainable backends and complete products —
+        from the first screen to production deployment.
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>✦ What I care about</h3>
-      <p>Strong UX, pragmatic architecture, clean delivery pipelines, and shipping ideas that are actually useful.</p>
+      <p>
+        Strong UX, pragmatic architecture, clean delivery pipelines and
+        shipping ideas that are genuinely useful.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ How I work</h3>
+      <p>
+        Product thinking first, simple abstractions, measurable outcomes
+        and engineering decisions that survive real-world complexity.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ What excites me</h3>
+      <p>
+        AI-assisted creative tools, developer experience, automation,
+        scalable platforms and difficult product problems.
+      </p>
     </td>
   </tr>
 </table>
 
-## Toolkit
+---
 
-<p><strong>Languages</strong></p>
-<p>
-  <img alt="JavaScript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img alt="TypeScript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img alt="PHP" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img alt="Python" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-</p>
+## 🧰 Toolkit
 
-<p><strong>Frontend</strong></p>
-<p>
-  <img alt="React" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img alt="Next.js" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img alt="Vue" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
-  <img alt="Nuxt" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg">
-  <img alt="Angular" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-  <img alt="Tailwind CSS" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img alt="Electron" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg">
-</p>
+<div align="center">
 
-<p><strong>Backend</strong></p>
-<p>
-  <img alt="Node.js" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img alt="Express" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
-  <img alt="NestJS" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-  <img alt="Fastify" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg">
-  <img alt="Laravel" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
-</p>
+### Languages
 
-<p><strong>Databases</strong></p>
-<p>
-  <img alt="MongoDB" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-  <img alt="Redis" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg">
-  <img alt="PostgreSQL" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img alt="MySQL" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img alt="MariaDB" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg">
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,php,py&theme=dark" alt="JavaScript, TypeScript, PHP and Python" />
 
-<p><strong>Infrastructure</strong></p>
-<p>
-  <img alt="Docker" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img alt="Kubernetes" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
-  <img alt="AWS" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-</p>
+### Frontend
 
-<p><strong>AI</strong></p>
-<p>
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-  <img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI_Codex-111111?style=for-the-badge&logo=openai&logoColor=white">
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,tailwind,electron&theme=dark" alt="React, Next.js, Vue, Nuxt, Angular, Tailwind CSS and Electron" />
 
-<p><strong>Other</strong></p>
-<p>
-  <img alt="GitHub Actions" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">
-  <img alt="Railway" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg">
-  <img alt="Git" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img alt="GitHub" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-  <img alt="GitLab" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg">
-</p>
+### Backend
 
-> No broken activity widgets here — this profile stays focused on work, tools, and ways to connect.
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastify,laravel&theme=dark" alt="Node.js, Express, NestJS, Fastify and Laravel" />
 
-<p align="center">
-  <i>Open to meaningful collaborations and difficult product problems.</i>
-</p>
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,mysql&theme=dark" alt="MongoDB, Redis, PostgreSQL and MySQL" />
+
+### Infrastructure & delivery
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,github,gitlab&theme=dark" alt="Docker, Kubernetes, AWS, GitHub Actions, Git, GitHub and GitLab" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+
+### AI-assisted engineering
+
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/OpenAI_Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+
+</div>
+
+---
+
+## 📊 GitHub in motion
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sentore847&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&ring_color=8B5CF6&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sentore847&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Most used languages" />
+
+<br/><br/>
+
+<img width="92%" src="https://streak-stats.demolab.com?user=Sentore847&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak" />
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sentore847&bg_color=0D1117&color=A78BFA&line=22D3EE&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+## 🚀 Engineering principles
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>Clarity</strong><br/>
+      <sub>Code and interfaces should explain themselves.</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>Pragmatism</strong><br/>
+      <sub>Use the simplest architecture that solves the real problem.</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>Ownership</strong><br/>
+      <sub>Think beyond implementation and care about the outcome.</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>Momentum</strong><br/>
+      <sub>Ship, learn, improve and keep moving.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+### Let’s build something useful.
+
+<i>Open to meaningful collaborations, ambitious products and difficult engineering problems.</i>
+
+<br/><br/>
+
+<a href="mailto:grigorchuk.dev@gmail.com">
+  <img src="https://img.shields.io/badge/START_A_CONVERSATION-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation" />
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:00C2FF&height=125&section=footer" alt="Footer" />
+
+</div>
